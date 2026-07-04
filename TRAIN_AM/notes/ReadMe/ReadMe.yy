@@ -1,0 +1,12 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"ReadMe",
+  "name":"ReadMe",
+  "openedOnFirstLoad":true,
+  "parent":{
+    "name":"TRAIN_AM",
+    "path":"TRAIN_AM.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
