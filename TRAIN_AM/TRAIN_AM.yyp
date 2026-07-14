@@ -37,7 +37,7 @@
   "name":"TRAIN_AM",
   "resources":[
     {"id":{"name":"ReadMe","path":"notes/ReadMe/ReadMe.yy",},},
-    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
